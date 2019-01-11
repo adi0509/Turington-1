@@ -1,9 +1,10 @@
 
+var loadEvents = /*get json object frombackend*/'[{"name": "Hackathon","img": "eventimg.png","description": "some text describing event","contacts": "Adarsh +91 9898989898"	},	{"name": "Game of Code","img": "eventimg.png","description": "some text describing event","contacts": "Adarsh +91 9898989898"}]';
 
 
 function getEvents()
 {	
-	var events = JSON.parse(/*get json object frombackend*/'[{"name": "Hackathon","img": "eventimg.png","description": "some text describing event","contacts": "Adarsh +91 9898989898"	},	{"name": "Game of Code","img": "eventimg.png","description": "some text describing event","contacts": "Adarsh +91 9898989898"}]');
+	var events = JSON.parse(loadEvents);
 	
 	var eventDiv = document.getElementById("eventTemplate");
 	var eventImg =  document.getElementById("eventImage");
