@@ -3,8 +3,12 @@
 <head>
 	<title>TuringTon'19</title>
 	<link rel="stylesheet" type="text/css" href="index.css">
+	<script type="text/javascript" src="data.js"></script>
+	
 </head>
 <body>
+
+
 	<div id="home">
 		
 			<div>TURINGTON</div>
@@ -15,29 +19,57 @@
 			</div>
 	</div>
 
+
+
 	<div id="navbar">
 		<ul>
-			<li>Home</li>
-			<li>About</li>
-			<li>Events</li>
-			<li>Team</li>
-			<li>Sponsors</li>
-			<li>Contacts</li>			
+			<a href="#home"><li>Home</li></a>
+			<a href="#about"><li>About</li></a>
+			<a href="#events"><li>Events</li></a>
+			<a href="#team"><li>Team</li></a>
+			<a href="#glimpses"><li>Glimpses</li></a>
+			<a href="#sponsors"><li>Sponsors</li></a>
+			<a href="#contacts"><li>Contacts</li></a>			
 		</ul>
 	</div>
 
+
+
 	<div id="about"> This div contains some text about turington 4th edition</div>
+
+
 
 	<div id="events">
 		
+		<div id="eventTemplate">
+			<img id="eventImage" src="noimage.png">
+			<div id="eventName"></div>
+			<div id="eventDescription"></div>
+			<div id="eventContacts"></div>
+		</div>
+
+			<script>
+				getEvents();
+			</script>
 	</div>
+
+
 
 	<div id="team"></div>
 
+
+
+	<div id="glimpses"></div>
+
+
+
 	<div id="sponsors"></div>
+
+
 
 	<div id="contacts">
 		
 	</div>
+
 </body>
 </html>

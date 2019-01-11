@@ -1,0 +1,15 @@
+[
+	{
+		"Name": "Hackathon",
+		"img": "eventimg.png",
+		"description": "some text describing event",
+		"contacts": "Adarsh +91 9898989898"
+	},
+	{
+		"Name": "Game of Code",
+		"img": "eventimg.png",
+		"description": "some text describing event",
+		"contacts": "Adarsh +91 9898989898"
+	}
+
+]
