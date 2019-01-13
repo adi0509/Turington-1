@@ -20,7 +20,7 @@ function getEvents()
 		eventDescription.innerHTML = events[i].description;
 		eventContacts.innerHTML = events[i].contacts;
 
-		loadedDivs+= '<div id="eventTemplate">'+eventDiv.innerHTML+'</div>';
+		loadedDivs+= '<div class="event" id="eventTemplate">'+eventDiv.innerHTML+'</div>';
 
 	}
 	document.getElementById("events").innerHTML = loadedDivs;
@@ -38,11 +38,6 @@ function getGlimpses()
 }
 
 function getSponsors()
-{
-
-}
-
-function getContacts()
 {
 
 }

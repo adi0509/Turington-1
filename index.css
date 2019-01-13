@@ -1,4 +1,108 @@
-div{
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #f3e5f5;
+	padding: 0px;
+	margin: 0px;
+}
 
+
+
+
+#intro
+{ 
+	color:  #f7f9f9 ;
+	background-color: #273746 ;
 	text-align: center;
+	line-height: 1.5;
+	height: 90vh;
+	
+	overflow: hidden;
+}
+
+
+
+.navBar
+{
+
+	overflow: hidden;
+	background-color: #273746;
+	opacity: 0.75;
+	display: block;
+	
+	height: 10vh;
+	
+	position: -webkit-sticky;
+ 	position: sticky;
+ 	top: 0;
+
+}
+
+
+
+
+.navBar a
+{
+	color:  #f7f9f9 ;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	overflow: hidden;
+
+	padding: 15px;
+
+}
+
+
+#contacts
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------------*/
+
+
+#about
+{
+	padding: 30px;
+	background-color: #f2ae72;
+	text-align: center;
+	display: block;
+}
+
+
+
+
+#events
+{
+	padding-top: 40px;
+	padding-bottom: 30px;
+	overflow: scroll;
+}
+
+
+.event
+{
+
+	display: inline-block;
+	overflow: hidden;
+	background-color: red;
+
+	padding: 10px;
+	margin: 10px;
+
 }
