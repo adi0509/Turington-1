@@ -10,6 +10,12 @@
 	
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<!--google fonts-->
+	<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Orbitron|Quicksand" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Montserrat|Orbitron|Quicksand" rel="stylesheet"> 
+
 	<script type="text/javascript" src="data.js"></script>
 	
 </head>
@@ -18,8 +24,8 @@
 	
 		<div id="intro">
 		
-				<div>
-					TURINGTON
+				<div id="turingtonHeading">
+					Turington
 				</div>
 
 				<div>Annual Techfest of Ramanujan College,<br>
@@ -68,7 +74,17 @@
 
 	<div id="glimpses"></div>
 
-	<div id="sponsors"></div>
+
+	<div id="sponsors">
+		<div class="sponsor" id="sponsorTemplate">
+			<a id="sponsorWebsite" href="">
+			<img id="sponsorLogo" src="no-image">
+			</a>
+		</div>
+	</div>
+	<script>
+		getSponsors();
+	</script>
 
 
 

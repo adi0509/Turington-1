@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Apple",
+		"logo":"img/sponsors/apple.jpg",
+		"website":"apple.com"
+	},
+	{
+		"name":"Google",
+		"logo":"img/sponsors/google.jpg",
+		"website":"google.com"
+	},
+	{
+		"name":"Microsoft",
+		"logo":"img/sponsors/microsoft.jpg",
+		"website":"microsoft.com"
+	},
+	{
+		"name":"Samsung",
+		"logo":"img/sponsors/samsung.jpg",
+		"website":"samsung.com"
+	}
+]
