@@ -9,6 +9,7 @@
 	<!--our css files-->
 	<link rel="stylesheet" type="text/css" href="index.css">
 	<link rel="stylesheet" type="text/css" href="contacts.css">
+	<link rel="stylesheet" type="text/css" href="navBar.css">
 	
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -36,9 +37,17 @@
 				</div>
 		</div>
 	
-		
 
-		<div class="navBar">
+	
+		
+		<div id="navButton" class="navButton" onclick="toggleNav(this)">
+  			<div class="bar1"></div>
+  			<div class="bar2"></div>
+  			<div class="bar3"></div>
+		</div>
+
+
+		<div id="navBar" class="navBar hideNavBar" onclick="toggleNav(this)">
 			<center>
 			<a href="#intro">Home</a>
 			<a href="#about">About</a>
@@ -50,6 +59,21 @@
 			<a href="#contacts">Contacts</a>			
 			</center>
 		</div>
+
+		<script>
+			function toggleNav(y) 
+			{
+				var x = document.getElementById("navButton");
+				x.classList.toggle("change");
+				var navBar = document.getElementById("navBar");
+				if(x.classList.contains("change"))
+					navBar.className="navBar";
+				else
+					navBar.className="navBar hideNavBar";
+			}
+		</script>
+
+
 
 
 	<div id="about"> This div contains some text about turington 4th edition.This div contains some text about turington 4th edition.This div contains some text about turington 4th edition.

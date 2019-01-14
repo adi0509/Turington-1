@@ -1,6 +1,5 @@
 body
 {
-	background-color: #f3e5f5;
 	padding: 0px;
 	margin: 0px;
 	font-family: 'Montserrat', sans-serif;
@@ -10,7 +9,6 @@ body
 #intro
 { 
 	color:  #005 ;
-	background-color: #DDF ;
 	text-align: center;
 	line-height: 1.5;
 	height: 90vh;
@@ -37,43 +35,6 @@ body
 }
 
 
-
-.navBar
-{
-
-	overflow: hidden;
-	background-color: #110e5f;
-	opacity: 0.75;
-	display: block;
-	
-	height: 10vh;
-	
-	position: -webkit-sticky;
- 	position: sticky;
- 	top: 0;
-
-}
-
-
-
-
-.navBar a
-{
-	color:  #f7f9f9 ;
-	text-decoration: none;
-	text-align: center;
-	display: inline-block;
-	overflow: hidden;
-
-	padding: 15px;
-
-}
-
-.navBar a:hover
-{
-	border-bottom: 2px;
-	border-bottom-color: red;
-}
 
 
 
