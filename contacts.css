@@ -156,19 +156,21 @@
 		margin-top: 15px;
 		margin-bottom: 0px;
 		padding: 5px;
+		font-size: 1.0em;
 	}
 
 	.small-links
 	{
-		padding: 3px;
+		padding: 5px;
 		margin: 0px;
+		font-size: 0.8em;
 	}
 
 	#footer-text
 	{
 		padding: 10px;
 		margin: 5px;
-		font-size: 0.8em;
+		font-size: 0.6em;
 		display: block;
 	}
 
