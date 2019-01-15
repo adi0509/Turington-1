@@ -12,6 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="stylesheets/navBar.css">
 	<link rel="stylesheet" type="text/css" href="stylesheets/events.css">
 	<link rel="stylesheet" type="text/css" href="stylesheets/sponsors.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/timer.css">
 	
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -32,10 +33,32 @@
 				</div>
 
 				Annual Techfest of Ramanujan College,<br>
-					University of Delhi
+					University of Delhi<br>
 				
 
 				<div id="timer">
+					<div>
+						<center>
+						<div class="timerBox" id="days"></div>
+						<div class="timerLabel">Days</div>
+						</center>
+					</div>
+					<div>
+						<center>
+						<div class="timerBox" id="hours"></div>
+						<div class="timerLabel">Hours</div>
+						</center>
+					</div>
+					<div>
+						<center>
+						<div class="timerBox" id="minutes"></div>
+						<div class="timerLabel">Minutes</div>
+						</center>
+					</div>
+
+					<script>
+						setTimer();
+					</script>
 				</div>
 
 		</div>

@@ -60,3 +60,11 @@ function getSponsors()
 
 
 }
+
+
+function setTimer()
+{
+	document.getElementById("days").innerHTML=20;
+	document.getElementById("hours").innerHTML=10;
+	document.getElementById("minutes").innerHTML=5;
+}
