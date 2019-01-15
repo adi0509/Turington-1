@@ -22,10 +22,10 @@ function getEvents()
 		eventDescription.innerHTML = events[i].description;
 		eventContacts.innerHTML = events[i].contacts;
 
-		loadedDivs+= '<div class="event" id="eventTemplate">'+eventDiv.innerHTML+'</div>';
+		loadedDivs+= '<div class="eventTemplate" id="eventTemplate">'+eventDiv.innerHTML+'</div>';
 
 	}
-	document.getElementById("events").innerHTML = loadedDivs;
+	document.getElementById("eventsContainer").innerHTML = loadedDivs;
 
 }
 
@@ -53,10 +53,10 @@ function getSponsors()
 		sponsorImg.src= sponsors[i].logo;
 		sponsorWebsite.href= sponsors[i].website;
 		
-		loadedDivs+= '<div class="sponsor" id="sponsorTemplate">'+sponsorDiv.innerHTML+'</div>';
+		loadedDivs+= '<div class="sponsorTemplate" id="sponsorTemplate">'+sponsorDiv.innerHTML+'</div>';
 
 	}
-	document.getElementById("sponsors").innerHTML = loadedDivs;
+	document.getElementById("sponsorsContainer").innerHTML = loadedDivs;
 
 
 }

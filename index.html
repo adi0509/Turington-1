@@ -7,9 +7,11 @@
 	<meta name="viewport" content="width=device-width">
 
 	<!--our css files-->
-	<link rel="stylesheet" type="text/css" href="index.css">
-	<link rel="stylesheet" type="text/css" href="contacts.css">
-	<link rel="stylesheet" type="text/css" href="navBar.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/contacts.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/navBar.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/events.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/sponsors.css">
 	
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -29,17 +31,15 @@
 					Turington
 				</div>
 
-				<div>Annual Techfest of Ramanujan College,<br>
+				Annual Techfest of Ramanujan College,<br>
 					University of Delhi
-				</div>
+				
 
 				<div id="timer">
 				</div>
-		</div>
-	
 
-	
-		
+		</div>
+
 		<div id="navButton" class="navButton" onclick="toggleNav(this)">
   			<div class="bar1"></div>
   			<div class="bar2"></div>
@@ -47,41 +47,50 @@
 		</div>
 
 
-		<div id="navBar" class="navBar hideNavBar" onclick="toggleNav(this)">
-			<center>
-			<a href="#intro">Home</a>
-			<a href="#about">About</a>
-			<a href="#events">Events</a>
-			<a href="speakers.html">Speakers</a>
-			<a href="team.html">Team</a>
-			<a href="glimpses.html">Glimpses</a>
-			<a href="#sponsors">Sponsors</a>
-			<a href="#contacts">Contacts</a>			
-			</center>
-		</div>
+			<div id="navBar" class="navBar hideNavBar" onclick="toggleNav(this)">
+				<center>
+				<a href="#intro">Home</a>
+				<a href="#about">About</a>
+				<a href="#events">Events</a>
+				<a href="speakers.html">Speakers</a>
+				<a href="team.html">Team</a>
+				<a href="glimpses.html">Glimpses</a>
+				<a href="#sponsors">Sponsors</a>
+				<a href="#contacts">Contacts</a>			
+				</center>
+			</div>
 
-		<script>
-			function toggleNav(y) 
-			{
-				var x = document.getElementById("navButton");
-				x.classList.toggle("change");
-				var navBar = document.getElementById("navBar");
-				if(x.classList.contains("change"))
-					navBar.className="navBar";
-				else
-					navBar.className="navBar hideNavBar";
-			}
-		</script>
-
-
+			<script>
+				function toggleNav(y) 
+				{
+					var x = document.getElementById("navButton");
+					x.classList.toggle("change");
+					var navBar = document.getElementById("navBar");
+					if(x.classList.contains("change"))
+						navBar.className="navBar";
+					else
+						navBar.className="navBar hideNavBar";
+				}
+			</script>
 
 
-	<div id="about"> This div contains some text about turington 4th edition.This div contains some text about turington 4th edition.This div contains some text about turington 4th edition.
+	
+		
+		
+
+
+
+
+	<div id="about">
+		<p class="heading">About us /-</p>
+	 This div contains some text about turington 4th edition.This div contains some text about turington 4th edition.This div contains some text about turington 4th edition.
 	</div>
 
+
 	<div id="events">
-		
-		<div class="event" id="eventTemplate">
+		<p class="heading">Events /-</p>
+		<div id="eventsContainer">
+		<div class="eventTemplate" id="eventTemplate">
 			<img id="eventImage" src="noimage.png">
 			<div id="eventName"></div>
 			<div id="eventDescription"></div>
@@ -91,16 +100,21 @@
 			<script>
 				getEvents();
 			</script>
+		</div>
 	</div>
 
 
 
 
 	<div id="sponsors">
-		<div class="sponsor" id="sponsorTemplate">
-			<a id="sponsorWebsite" href="">
-			<img id="sponsorLogo" src="no-image">
-			</a>
+		<p class="heading">Sponsors /-</p>
+
+		<div id="sponsorsContainer">
+			<div class="sponsorTemplate" id="sponsorTemplate">
+				<a id="sponsorWebsite" href="">
+				<img id="sponsorLogo" src="no-image">
+				</a>
+			</div>
 		</div>
 	</div>
 	<script>

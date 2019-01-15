@@ -1,0 +1,181 @@
+
+#contacts
+{
+	font-family: 'Quicksand', sans-serif;
+	display: block;
+	padding: 30px;
+	margin: 0px;
+
+	background-color: #110e5f;
+}
+
+#contacts:after
+{
+	clear: both;
+	content: "";
+	display: block;
+}
+
+
+#boxContainer
+{
+	display: block;
+	margin:35px;
+	column-count: 5;
+}
+
+
+.box
+{
+	display: inline-block;
+}
+
+#turingtonLogo
+{
+	font-weight: bold;
+	font-size: 1.2em;
+
+	color: white;
+	height: 320px;
+	padding: 20px;
+
+}
+
+
+.quick-links 
+{
+	text-align: left;
+	display: block;
+	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
+	padding: 5px;
+
+	margin-top: 20px;
+	margin-bottom: 2px;
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;	
+}
+
+
+
+.small-links
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #DDD;
+	font-size: 1.0em;
+	font-weight: normal;
+}
+
+.quick-links:hover
+{
+	text-decoration: underline;
+}
+
+
+/*footer text*/
+#footer-text
+{
+	padding: 20px;
+	margin: 20px;
+	font-size: 0.9em; 
+	color: white;
+	display: inline-block;
+}
+
+#footer-text:after
+{
+	display: block;
+	content: "";
+	clear: both;
+}
+
+
+#footer-text a
+{
+	text-align: center;
+	color: #DDD;
+	display: inline-block;
+	text-decoration: none;
+}
+
+#footer-text a:hover
+{
+	text-decoration: underline;	
+}
+
+/*social media logo*/
+
+.fa 
+{
+
+	float: right;
+  	padding: 20px;
+
+  	text-align: center;
+  	text-decoration: none;
+
+  	display: inline-block;
+  	overflow: hidden;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook , .fa-twitter , .fa-youtube , .fa-instagram {
+  color: white;
+}
+
+
+/*for tablets and mobile*/
+
+@media only screen and (max-width: 750px) 
+{
+	#contacts
+	{
+		padding-left: 10px;
+		padding-right: 5px;
+	}
+
+	#turingtonLogo
+	{
+		height: 100px;
+		padding: 5px;
+	}
+
+	#boxContainer
+	{
+		column-count: 2;
+	}
+
+	.quick-links 
+	{
+		margin-top: 15px;
+		margin-bottom: 0px;
+		padding: 5px;
+		font-size: 1.0em;
+	}
+
+	.small-links
+	{
+		padding: 5px;
+		margin: 0px;
+		font-size: 0.8em;
+	}
+
+	#footer-text
+	{
+		padding: 10px;
+		margin: 5px;
+		font-size: 0.6em;
+		display: block;
+	}
+
+}
+
+
+
+
+
