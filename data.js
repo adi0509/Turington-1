@@ -5,9 +5,9 @@ var loadSponsors = /*get json object from backend*/'[{"name":"Apple","logo":"img
 
 
 function getEvents()
-{	
+{
 	var events = JSON.parse(loadEvents);
-	
+
 	var eventDiv = document.getElementById("eventTemplate");
 	var eventImg =  document.getElementById("eventImage");
 	var eventName = document.getElementById("eventName");
@@ -42,7 +42,7 @@ function getGlimpses()
 function getSponsors()
 {
 	var sponsors = JSON.parse(loadSponsors);
-	
+
 	var sponsorDiv = document.getElementById("sponsorTemplate");
 	var sponsorImg =  document.getElementById("sponsorLogo");
 	var sponsorWebsite = document.getElementById("sponsorWebsite");
@@ -52,7 +52,7 @@ function getSponsors()
 	{
 		sponsorImg.src= sponsors[i].logo;
 		sponsorWebsite.href= sponsors[i].website;
-		
+
 		loadedDivs+= '<div class="sponsorTemplate" id="sponsorTemplate">'+sponsorDiv.innerHTML+'</div>';
 
 	}
@@ -64,7 +64,22 @@ function getSponsors()
 
 function setTimer()
 {
-	document.getElementById("days").innerHTML=20;
-	document.getElementById("hours").innerHTML=10;
-	document.getElementById("minutes").innerHTML=5;
+	var festDate = new Date("Feb 5, 2019 10:00:00").getTime();
+	var countdown = setInterval(function() {
+		var now = new Date().getTime();
+		var distance = festDate - now;
+		var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+		var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+		var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+		document.getElementById("days").innerHTML = days;
+		document.getElementById("hours").innerHTML = hours;
+		document.getElementById("minutes").innerHTML = minutes;
+
+
+		if (distance < 0) {
+			clearInterval(countdownfunction);
+			document.getElementById("timer").innerHTML = "WELCOME!!!!";
+		}
+	}, 1000);
 }
