@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="232.45534mm"
+   height="86.178574mm"
+   viewBox="0 0 232.45534 86.178575"
+   version="1.1"
+   id="svg8650"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="b1.svg">
+  <defs
+     id="defs8644">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-367.23986 : 110.97858 : 1"
+       inkscape:vp_y="-999.99635 : 2.6971306 : 0"
+       inkscape:vp_z="-366.67346 : 320.97783 : 1"
+       inkscape:persp3d-origin="-317.45684 : 215.84471 : 1"
+       id="perspective9211" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2026">
+      <path
+         d="M 0,0 H 5000 V 5000 H 0 Z"
+         id="path2024"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1938">
+      <path
+         d="m 4761.79,2486.29 c -55.66,0 -111.32,21.24 -153.78,63.7 -18.13,18.13 -32.39,38.66 -42.78,60.57 -38.29,80.75 -24.03,180.21 42.78,247.01 l 116.67,116.67 c 84.93,84.94 84.93,222.65 0,307.58 -42.47,42.47 -98.13,63.7 -153.8,63.7 -55.66,0 -111.32,-21.23 -153.78,-63.7 l -604.55,-604.55 c -42.47,-42.47 -98.13,-63.7 -153.79,-63.7 -55.65,0 -111.31,21.23 -153.78,63.7 -84.94,84.94 -84.94,222.64 0,307.58 l 894.52,894.52 h 579.83 v 4.25 c 6.6,-8.98 13.49,-17.71 20.67,-26.21 v -1223 l -23.85,-23.85 -60.57,-60.57 c -42.47,-42.46 -98.13,-63.7 -153.79,-63.7 M 3393.61,3578.72 c -55.66,0 -111.32,21.24 -153.79,63.7 -64.05,64.06 -79.8,158.13 -47.23,236.95 h 591.76 L 3547.4,3642.42 c -42.46,-42.46 -98.13,-63.7 -153.79,-63.7 M 5000,3906.22 c -7.3,10.19 -14.2,20.7 -20.67,31.48 v 478 c 6.47,10.78 13.37,21.29 20.67,31.48 v -540.96 m -20.67,563.56 V 5000 H 5000 v -504.02 c -7.18,-8.5 -14.07,-17.23 -20.67,-26.2"
+         id="path1936"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2735.98,2735.98,2735.98,-2735.98,3504.98,2677.27)"
+       spreadMethod="pad"
+       id="linearGradient1944">
+      <stop
+         style="stop-opacity:1;stop-color:#ee2481"
+         offset="0"
+         id="stop1940" />
+      <stop
+         style="stop-opacity:1;stop-color:#f57f33"
+         offset="1"
+         id="stop1942" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2014">
+      <path
+         d="M 4979.33,3879.37 H 4399.5 l 140.31,140.31 c 78.46,78.46 84.45,201.95 17.95,287.28 -5.49,7.04 -11.47,13.83 -17.95,20.3 -42.46,42.47 -98.12,63.7 -153.78,63.7 -55.66,0 -111.32,-21.23 -153.79,-63.7 l -447.89,-447.89 h -591.76 c 10.61,25.68 26.36,49.75 47.23,70.63 l 1050.01,1050 h 316.23 c -0.24,-6.7 2.19,-13.48 7.31,-18.59 4.88,-4.89 11.28,-7.33 17.68,-7.33 6.39,0 12.79,2.44 17.67,7.33 5.12,5.11 7.55,11.89 7.31,18.59 h 323.3 v -530.22 c -60.31,-82.01 -95.94,-183.36 -95.94,-293.08 0,-109.73 35.63,-211.07 95.94,-293.08 v -4.25 m -1266.11,226.9 c -6.58,0 -13.02,-2.67 -17.68,-7.33 -4.65,-4.65 -7.32,-11.09 -7.32,-17.67 0,-6.59 2.67,-13.03 7.32,-17.68 4.66,-4.66 11.1,-7.33 17.68,-7.33 6.58,0 13.03,2.67 17.68,7.33 4.65,4.65 7.32,11.09 7.32,17.68 0,6.58 -2.67,13.02 -7.32,17.67 -4.65,4.66 -11.1,7.33 -17.68,7.33 m 114.73,114.72 c -6.4,0 -12.8,-2.44 -17.68,-7.32 -9.76,-9.76 -9.76,-25.59 0,-35.36 4.88,-4.88 11.28,-7.32 17.68,-7.32 6.4,0 12.8,2.44 17.68,7.32 9.76,9.77 9.76,25.6 0,35.36 -4.88,4.88 -11.28,7.32 -17.68,7.32 m 114.73,114.73 c -6.4,0 -12.8,-2.44 -17.68,-7.32 -9.76,-9.77 -9.76,-25.6 0,-35.36 4.88,-4.88 11.28,-7.32 17.68,-7.32 6.4,0 12.79,2.44 17.67,7.32 9.77,9.76 9.77,25.59 0,35.36 -4.88,4.88 -11.27,7.32 -17.67,7.32 m 114.72,114.73 c -6.39,0 -12.79,-2.45 -17.67,-7.32 -9.77,-9.77 -9.77,-25.6 0,-35.36 4.88,-4.88 11.28,-7.32 17.67,-7.32 6.4,0 12.8,2.44 17.68,7.32 9.76,9.76 9.76,25.59 0,35.36 -4.88,4.87 -11.28,7.32 -17.68,7.32 m 114.73,114.72 c -6.39,0 -12.79,-2.44 -17.68,-7.32 -9.76,-9.76 -9.76,-25.59 0,-35.35 4.89,-4.88 11.29,-7.32 17.68,-7.32 6.4,0 12.8,2.44 17.68,7.32 9.77,9.76 9.77,25.59 0,35.35 -4.88,4.88 -11.28,7.32 -17.68,7.32 m 114.73,114.73 c -6.4,0 -12.79,-2.44 -17.68,-7.32 -9.76,-9.76 -9.76,-25.6 0,-35.36 4.89,-4.88 11.28,-7.32 17.68,-7.32 6.4,0 12.8,2.44 17.68,7.32 9.76,9.76 9.76,25.6 0,35.36 -4.88,4.88 -11.28,7.32 -17.68,7.32 m 114.73,114.73 c -6.4,0 -12.8,-2.44 -17.68,-7.33 -9.76,-9.76 -9.76,-25.59 0,-35.35 4.88,-4.88 11.28,-7.32 17.68,-7.32 6.4,0 12.8,2.44 17.68,7.32 9.76,9.76 9.76,25.59 0,35.35 -4.88,4.89 -11.28,7.33 -17.68,7.33 m 114.73,114.73 c -6.4,0 -12.8,-2.45 -17.68,-7.32 -9.76,-9.77 -9.76,-25.6 0,-35.36 4.88,-4.88 11.28,-7.32 17.68,-7.32 6.4,0 12.79,2.44 17.68,7.32 9.76,9.76 9.76,25.59 0,35.36 -4.89,4.87 -11.28,7.32 -17.68,7.32 m 463.01,-971.66 c -41.88,69.81 -65.94,151.53 -65.94,239 0,87.47 24.06,169.19 65.94,239 v -478"
+         id="path2012"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1892">
+      <path
+         d="M 0,0 V 5000 H 5000 V 0 Z"
+         id="path1890"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1978">
+      <path
+         d="m 3076.12,3879.37 h -791.41 l 791.41,791.41 V 3879.37 M 1945.5,4245.4 c -55.66,0 -111.32,21.23 -153.78,63.7 -84.94,84.93 -84.94,222.64 0,307.57 L 2175.05,5000 h 615.15 l -690.91,-690.9 c -42.46,-42.47 -98.13,-63.7 -153.79,-63.7"
+         id="path1976"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2002">
+      <path
+         d="m 4130.17,3879.37 h -345.82 l 447.89,447.89 c 42.47,42.47 98.13,63.7 153.79,63.7 55.66,0 111.32,-21.23 153.78,-63.7 6.48,-6.47 12.46,-13.26 17.95,-20.3 l -427.59,-427.59 m -937.58,0 h -116.47 v 791.41 l 189.84,189.84 c 38.8,38.79 59.88,88.61 63.23,139.38 h 960.64 L 3239.82,3950 c -20.87,-20.88 -36.62,-44.95 -47.23,-70.63"
+         id="path2000"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2026-7">
+      <path
+         d="M 0,0 H 5000 V 5000 H 0 Z"
+         id="path2024-5"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2636">
+      <path
+         d="M 0,0 H 5000 V 5000 H 0 Z"
+         id="path2634"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2642">
+      <path
+         d="m 2905.83,-1106.17 v 0 c 84.94,-84.93 84.94,-222.64 0,-307.57 l -209.34,-209.35 c -84.93,-84.93 -84.93,-222.63 0,-307.57 84.94,-84.94 222.65,-84.94 307.58,0 L 5641.89,707.16 c 84.94,84.942 84.94,222.641 0,307.58 -84.93,84.94 -222.64,84.94 -307.57,0 L 4940.68,621.102 c -84.94,-84.942 -222.64,-84.942 -307.57,0 -84.94,84.937 -84.94,222.636 0,307.57 l 966.19,966.188 c 84.93,84.94 84.93,222.65 0,307.58 -84.94,84.94 -222.65,84.94 -307.58,0 L 1632.63,-1456.65 c -84.94,-84.93 -84.94,-222.65 0,-307.58 84.93,-84.93 222.63,-84.93 307.57,0 l 658.06,658.06 c 84.93,84.94 222.64,84.94 307.57,0 z"
+         id="path2640"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2558.34,2558.34,2558.34,-2558.34,3270.2,-741.8)"
+       spreadMethod="pad"
+       id="linearGradient2648">
+      <stop
+         style="stop-opacity:1;stop-color:#332f8c"
+         offset="0"
+         id="stop2644" />
+      <stop
+         style="stop-opacity:1;stop-color:#714dab"
+         offset="1"
+         id="stop2646" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2026-2">
+      <path
+         d="M 0,0 H 5000 V 5000 H 0 Z"
+         id="path2024-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2026-2-0">
+      <path
+         d="M 0,0 H 5000 V 5000 H 0 Z"
+         id="path2024-9-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1544">
+      <path
+         d="m 11658.2,4056.26 c -6.6,0 -13,2.67 -17.7,7.33 -4.6,4.65 -7.3,11.09 -7.3,17.68 0,6.58 2.7,13.02 7.3,17.67 4.7,4.66 11.1,7.33 17.7,7.33 6.6,0 13,-2.67 17.7,-7.33 4.7,-4.65 7.3,-11.09 7.3,-17.67 0,-6.59 -2.6,-13.03 -7.3,-17.68 -4.7,-4.66 -11.1,-7.33 -17.7,-7.33"
+         id="path1542"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1532">
+      <path
+         d="m 11773,4170.99 c -6.4,0 -12.8,2.44 -17.7,7.32 -9.8,9.77 -9.8,25.6 0,35.36 4.9,4.88 11.3,7.32 17.7,7.32 6.4,0 12.7,-2.44 17.6,-7.32 9.8,-9.76 9.8,-25.59 0,-35.36 -4.9,-4.88 -11.2,-7.32 -17.6,-7.32 m 114.7,114.73 c -6.4,0 -12.8,2.44 -17.7,7.32 -9.8,9.76 -9.8,25.59 0,35.36 4.9,4.88 11.3,7.32 17.7,7.32 6.4,0 12.8,-2.44 17.7,-7.32 9.7,-9.77 9.7,-25.6 0,-35.36 -4.9,-4.88 -11.3,-7.32 -17.7,-7.32 m 114.7,114.73 c -6.4,0 -12.8,2.44 -17.7,7.32 -9.7,9.76 -9.7,25.59 0,35.36 4.9,4.87 11.3,7.32 17.7,7.32 6.4,0 12.8,-2.45 17.7,-7.32 9.7,-9.77 9.7,-25.6 0,-35.36 -4.9,-4.88 -11.3,-7.32 -17.7,-7.32 m 114.7,114.73 c -6.4,0 -12.8,2.44 -17.6,7.32 -9.8,9.76 -9.8,25.59 0,35.35 4.8,4.88 11.2,7.32 17.6,7.32 6.4,0 12.8,-2.44 17.7,-7.32 9.8,-9.76 9.8,-25.59 0,-35.35 -4.9,-4.88 -11.3,-7.32 -17.7,-7.32 m 114.8,114.72 c -6.4,0 -12.8,2.44 -17.7,7.32 -9.8,9.76 -9.8,25.6 0,35.36 4.9,4.88 11.3,7.32 17.7,7.32 6.4,0 12.8,-2.44 17.6,-7.32 9.8,-9.76 9.8,-25.6 0,-35.36 -4.8,-4.88 -11.2,-7.32 -17.6,-7.32 m 114.7,114.73 c -6.4,0 -12.8,2.44 -17.7,7.32 -9.8,9.76 -9.8,25.59 0,35.35 4.9,4.89 11.3,7.33 17.7,7.33 6.4,0 12.8,-2.44 17.7,-7.33 9.7,-9.76 9.7,-25.59 0,-35.35 -4.9,-4.88 -11.3,-7.32 -17.7,-7.32 m 114.7,114.73 c -6.4,0 -12.8,2.44 -17.7,7.32 -9.7,9.76 -9.7,25.59 0,35.36 4.9,4.87 11.3,7.32 17.7,7.32 6.4,0 12.8,-2.45 17.7,-7.32 9.8,-9.77 9.8,-25.6 0,-35.36 -4.9,-4.88 -11.3,-7.32 -17.7,-7.32 m 114.7,114.72 c -6.4,0 -12.8,2.44 -17.6,7.33 -5.1,5.11 -7.6,11.89 -7.3,18.59 h 49.9 c 0.3,-6.7 -2.2,-13.48 -7.3,-18.59 -4.9,-4.89 -11.3,-7.33 -17.7,-7.33"
+         id="path1530"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1004">
+      <path
+         d="m 13323.3,4041.72 c -74.6,0 -135,60.39 -135,134.98 0,74.6 60.4,134.98 135,134.98 74.6,0 135,-60.38 135,-134.98 v 0 0 0 c 0,-74.59 -60.4,-134.98 -135,-134.98 m 0,239.96 c -29.1,-0.01 -55.2,-11.72 -74.3,-30.73 -19,-19.03 -30.7,-45.18 -30.7,-74.25 0,-29.07 11.7,-55.21 30.7,-74.25 19.1,-19.01 45.2,-30.72 74.3,-30.73 29.1,0.01 55.2,11.72 74.3,30.73 19,19.04 30.7,45.18 30.7,74.25 0,29.07 -11.7,55.22 -30.7,74.25 -19.1,19.01 -45.2,30.72 -74.3,30.73"
+         id="path1002"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2735.98,2735.98,2735.98,-2735.98,11450,2677.27)"
+       spreadMethod="pad"
+       id="linearGradient1010">
+      <stop
+         style="stop-opacity:1;stop-color:#d575c1"
+         offset="0"
+         id="stop1006" />
+      <stop
+         style="stop-opacity:1;stop-color:#f6f466"
+         offset="1"
+         id="stop1008" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath988">
+      <path
+         d="m 13323.3,3921.75 c -140.9,0 -255,114.04 -255,254.95 0,140.91 114.1,254.96 255,254.96 140.9,0 255,-114.05 255,-254.96 -0.1,-140.91 -114.1,-254.95 -255,-254.95 v 14.99 15 c 62.2,0.01 118.4,25.14 159.1,65.85 40.7,40.74 65.8,96.88 65.9,159.11 -0.1,62.23 -25.2,118.37 -65.9,159.1 -40.7,40.72 -96.9,65.84 -159.1,65.85 -62.2,-0.01 -118.4,-25.13 -159.1,-65.85 -40.7,-40.73 -65.9,-96.87 -65.9,-159.1 0,-62.23 25.2,-118.37 65.9,-159.11 40.7,-40.71 96.9,-65.84 159.1,-65.85 v -15 -14.99"
+         id="path986"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath976">
+      <path
+         d="m 13607.9,3932.43 v 49.13 c 38.1,55.48 60.3,122.63 60.3,195.14 0,72.51 -22.2,139.67 -60.3,195.14 v 49.13 c 56.3,-65.59 90.3,-150.93 90.3,-244.27 v 0 0 0 c 0,-93.34 -34,-178.68 -90.3,-244.27"
+         id="path974"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath960">
+      <path
+         d="m 13323.3,3801.76 c -207.2,0 -374.9,167.71 -374.9,374.94 0,207.23 167.7,374.94 374.9,374.94 113.9,0 215.8,-50.64 284.6,-130.67 v -49.13 c -12.1,17.51 -25.7,33.85 -40.6,48.83 -62.5,62.42 -148.6,100.96 -244,100.97 -95.4,-0.01 -181.5,-38.55 -244,-100.97 -62.4,-62.45 -100.9,-148.58 -100.9,-243.97 0,-95.39 38.5,-181.52 100.9,-243.97 62.5,-62.42 148.6,-100.96 244,-100.97 95.4,0.01 181.5,38.55 244,100.97 14.9,14.98 28.5,31.32 40.6,48.83 v -49.13 c -68.8,-80.03 -170.7,-130.67 -284.6,-130.67"
+         id="path958"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath948">
+      <path
+         d="m 13607.9,3771.6 v 37.28 c 15.5,12.06 30.3,25.09 44.2,39 84.2,84.15 136.1,200.27 136.1,328.82 0,128.55 -51.9,244.68 -136.1,328.82 -13.9,13.91 -28.7,26.94 -44.2,39 v 37.28 c 127.2,-89.51 210.3,-237.51 210.3,-405.1 0,-167.59 -83.1,-315.59 -210.3,-405.1"
+         id="path946"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath936">
+      <path
+         d="m 12924.3,3883.62 c -60.3,82.01 -95.9,183.35 -95.9,293.08 0,109.72 35.6,211.07 95.9,293.08 v -54.08 c -41.9,-69.81 -65.9,-151.53 -65.9,-239 0,-87.47 24,-169.19 65.9,-239 v -54.08"
+         id="path934"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath920">
+      <path
+         d="m 13323.3,3681.79 c -163.8,0 -308.9,79.38 -399,201.83 v 54.08 c 19.7,-32.78 43.3,-62.93 70.2,-89.82 84.1,-84.13 200.3,-136.08 328.8,-136.09 v -15 -15 m 0,0 v 15 15 c 107.3,0.01 205.9,36.21 284.6,97.09 v -37.28 c -80.5,-56.59 -178.6,-89.81 -284.6,-89.81 m -399,733.91 v 54.08 c 90.1,122.45 235.2,201.83 399,201.83 106,0 204.1,-33.22 284.6,-89.81 v -37.28 c -78.7,60.88 -177.3,97.09 -284.6,97.09 -128.5,0 -244.7,-51.96 -328.8,-136.09 -26.9,-26.88 -50.5,-57.04 -70.2,-89.82"
+         id="path918"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath232">
+      <path
+         d="m 6695,0 h 7500 V 5000 H 6695 Z"
+         id="path230"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68"
+     inkscape:cx="346.07356"
+     inkscape:cy="285.85403"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="676"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9256"
+       originx="26.458333"
+       originy="-196.92559" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8647">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(26.458333,-13.895833)">
+    <path
+       style="fill:#110e5f;fill-opacity:1;stroke:none;stroke-width:0.19124268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -26.458333,13.895833 H 205.99701 V 100.07441 L -26.458333,78.529774 Z"
+       id="path9258-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g1886"
+       transform="matrix(0.02501092,0,0,-0.02738357,68.771569,150.81368)"
+       style="fill:#110e74;fill-opacity:1">
+      <g
+         clip-path="url(#clipPath1892)"
+         id="g1888"
+         style="fill:#110e74;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1894"
+           style="fill:#110e74;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1632.63,2919.7 c 84.93,-84.93 222.63,-84.93 307.57,0 l 670.68,670.69 c 84.94,84.93 222.64,84.93 307.58,0 v -0.01 c 84.93,-84.93 84.93,-222.64 0,-307.57 l -140.38,-140.38 c -84.93,-84.94 -84.93,-222.64 0,-307.58 84.94,-84.93 222.64,-84.93 307.57,0 l 3500.01,3500.01 c 84.94,84.94 84.94,222.64 0,307.57 v 0.01 c -84.94,84.93 -222.64,84.93 -307.58,0 L 5593.25,5957.6 c -84.94,-84.94 -222.65,-84.94 -307.57,0 -84.95,84.94 -84.95,222.64 0,307.57 l 1034.83,1034.84 c 84.93,84.94 84.93,222.64 0,307.58 -84.94,84.93 -222.64,84.93 -307.58,0 l -604.54,-604.55 c -84.94,-84.93 -222.65,-84.93 -307.58,0 -84.93,84.93 -84.93,222.64 0,307.57 l 116.67,116.67 c 84.93,84.94 84.93,222.65 0,307.58 -84.93,84.94 -222.65,84.94 -307.58,0 L 1791.72,4616.67 c -84.94,-84.93 -84.94,-222.64 0,-307.57 84.93,-84.94 222.64,-84.94 307.57,0 l 859.1,859.09 c 84.93,84.94 222.64,84.94 307.57,0 84.94,-84.93 84.94,-222.64 0,-307.57 L 1632.63,3227.28 c -84.94,-84.94 -84.94,-222.64 0,-307.58" />
+      </g>
+    </g>
+    <g
+       id="g2020"
+       transform="matrix(0.02501092,0,0,-0.02738357,57.20772,150.78254)"
+       style="fill:#110e70;fill-opacity:1">
+      <g
+         clip-path="url(#clipPath2026)"
+         id="g2022"
+         style="fill:#110e70;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2028"
+           style="fill:#110e70;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 3441.49,7453.57 c -84.93,84.94 -84.93,222.65 0,307.58 l 209.35,209.34 c 84.93,84.94 84.93,222.64 0,307.58 h -0.01 c -84.93,84.93 -222.64,84.93 -307.57,0 L 705.441,5640.25 c -84.945,-84.94 -84.945,-222.65 0,-307.58 84.93,-84.94 222.637,-84.94 307.569,0 l 393.64,393.64 c 84.93,84.93 222.64,84.93 307.58,0 84.93,-84.94 84.93,-222.64 0,-307.58 L 748.035,4452.54 c -84.937,-84.93 -84.937,-222.65 0,-307.57 84.934,-84.94 222.637,-84.94 307.585,0 l 3659.09,3659.09 c 84.93,84.93 84.93,222.64 0,307.58 -84.94,84.93 -222.65,84.93 -307.58,0 l -658.06,-658.07 c -84.93,-84.93 -222.65,-84.93 -307.58,0" />
+      </g>
+    </g>
+    <g
+       id="g2020-3"
+       transform="matrix(0.02501092,0,0,-0.02738357,135.97891,150.59421)"
+       style="fill:#110e84;fill-opacity:1">
+      <g
+         clip-path="url(#clipPath2026-7)"
+         id="g2022-5"
+         style="fill:#110e84;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2028-6"
+           style="fill:#110e84;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 3441.49,7453.57 c -84.93,84.94 -84.93,222.65 0,307.58 l 209.35,209.34 c 84.93,84.94 84.93,222.64 0,307.58 h -0.01 c -84.93,84.93 -222.64,84.93 -307.57,0 L 705.441,5640.25 c -84.945,-84.94 -84.945,-222.65 0,-307.58 84.93,-84.94 222.637,-84.94 307.569,0 l 393.64,393.64 c 84.93,84.93 222.64,84.93 307.58,0 84.93,-84.94 84.93,-222.64 0,-307.58 L 748.035,4452.54 c -84.937,-84.93 -84.937,-222.65 0,-307.57 84.934,-84.94 222.637,-84.94 307.585,0 l 3659.09,3659.09 c 84.93,84.93 84.93,222.64 0,307.58 -84.94,84.93 -222.65,84.93 -307.58,0 l -658.06,-658.07 c -84.93,-84.93 -222.65,-84.93 -307.58,0" />
+      </g>
+    </g>
+    <g
+       id="g2630"
+       transform="matrix(-0.03181646,0,0,0.03059482,133.00063,13.947889)"
+       style="fill:#080753;fill-opacity:1">
+      <g
+         clip-path="url(#clipPath2636)"
+         id="g2632"
+         style="fill:#080753;fill-opacity:1">
+        <g
+           clip-path="url(#clipPath2642)"
+           id="g2638"
+           style="fill:#080753;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2650"
+             style="fill:#080753;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 3089,0 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v -617 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -1 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -1 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -3 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -2 h -1 v -3 h -1 v -3 h -1 v -2 h -1 v -3 h -1 v -3 h -1 v -3 h -1 v -3 h -1 v -3 h -1 v -4 h -1 v -4 h -1 v -4 h -1 v -5 h -1 v -5 h -1 v -7 h -1 v -7 h -1 v -12 h -1 v -24 h 1 v -13 h 1 v -7 h 1 v -6 h 1 v -6 h 1 v -4 h 1 v -4 h 1 v -4 h 1 v -4 h 1 v -3 h 1 v -3 h 1 v -3 h 1 v -3 h 1 v -3 h 1 v -3 h 1 v -3 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -3 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -2 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 1 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 3 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 2 v -1 h 3 v -1 h 3 v -1 h 3 v -1 h 3 v -1 h 3 v -1 h 3 v -1 h 3 v -1 h 4 v -1 h 4 v -1 h 4 v -1 h 4 v -1 h 5 v -1 h 7 v -1 h 7 v -1 h 13 v -1 h 24 v 1 h 12 v 1 h 7 v 1 h 7 v 1 h 5 v 1 h 5 v 1 h 4 v 1 h 4 v 1 h 4 v 1 h 3 v 1 h 3 v 1 h 3 v 1 h 3 v 1 h 3 v 1 h 2 v 1 h 3 v 1 h 3 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 3 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 2 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 V 64 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 v -1 h -1 V 9 h -1 V 8 h -1 V 7 h -1 V 6 h -1 V 5 h -1 V 4 h -1 V 3 h -1 V 2 h -1 V 1 h -1 V 0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2020-1"
+       transform="matrix(0.02501092,0,0,-0.02738357,-23.455851,150.61015)"
+       style="fill:#110e70;fill-opacity:1">
+      <g
+         clip-path="url(#clipPath2026-2)"
+         id="g2022-2"
+         style="fill:#110e70;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2028-7"
+           style="fill:#110e70;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 3441.49,7453.57 c -84.93,84.94 -84.93,222.65 0,307.58 l 209.35,209.34 c 84.93,84.94 84.93,222.64 0,307.58 h -0.01 c -84.93,84.93 -222.64,84.93 -307.57,0 L 705.441,5640.25 c -84.945,-84.94 -84.945,-222.65 0,-307.58 84.93,-84.94 222.637,-84.94 307.569,0 l 393.64,393.64 c 84.93,84.93 222.64,84.93 307.58,0 84.93,-84.94 84.93,-222.64 0,-307.58 L 748.035,4452.54 c -84.937,-84.93 -84.937,-222.65 0,-307.57 84.934,-84.94 222.637,-84.94 307.585,0 l 3659.09,3659.09 c 84.93,84.93 84.93,222.64 0,307.58 -84.94,84.93 -222.65,84.93 -307.58,0 l -658.06,-658.07 c -84.93,-84.93 -222.65,-84.93 -307.58,0" />
+      </g>
+    </g>
+  </g>
+</svg>

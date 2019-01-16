@@ -1,0 +1,15 @@
+.commic
+{
+	background-repeat: no-repeat;
+	background-size: contain;
+	float: left;
+}
+
+
+.commic:after
+{
+	content: "";
+	display: block;
+	clear: both;
+}
+
