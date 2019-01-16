@@ -5,6 +5,11 @@
 	display: block;
 	padding: 30px 60px;
 	overflow: hidden;
+
+	background-image: url("../img/b4.svg");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
 }
 
 #sponsorsContainer
