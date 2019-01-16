@@ -3,23 +3,28 @@
 {
 	text-align: center;
 	display: block;
-	padding: 30px 60px;
 	overflow: hidden;
 }
 
 #sponsorsContainer
 {
-	column-count: 4;
+	padding: 0;
+	margin: 10%;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .sponsorTemplate
 {
 	display: inline-block;	
 	padding: 0px;
-	margin: 10px;
+	margin: 40px;
 
 }
 
-.sponsor img
+.sponsorTemplate img
 {
+
+	display: inline-block;
+	
 }
